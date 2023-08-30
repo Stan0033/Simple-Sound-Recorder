@@ -1,0 +1,32 @@
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\Simple Sound Recorder.exe.config
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\Simple Sound Recorder.exe
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\Simple Sound Recorder.pdb
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Asio.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Core.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Midi.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Wasapi.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.WinForms.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.WinMM.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\System.Security.AccessControl.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\System.Security.Principal.Windows.dll
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Asio.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Core.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Midi.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.Wasapi.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.WinForms.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\NAudio.WinMM.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\System.Security.AccessControl.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\bin\Debug\System.Security.Principal.Windows.xml
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.csproj.AssemblyReference.cache
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.csproj.SuggestedBindingRedirects.cache
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple_Sound_Recorder.Form1.resources
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple_Sound_Recorder.Properties.Resources.resources
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.csproj.GenerateResource.cache
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.csproj.CoreCompileInputs.cache
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.csproj.CopyComplete
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.exe
+C:\Projects\Software\__RAW\Simple Sound Recorder\Simple Sound Recorder\obj\Debug\Simple Sound Recorder.pdb
